@@ -1,6 +1,6 @@
 ![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg) 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# ShakeScribe
+Discover the perfect platform to unleash your creativity and share your thoughts with the world. Our blogging platform offers a user-friendly interface, customizable designs, and powerful publishing tools, making it easy to write, edit, and publish your content. Whether you're a seasoned blogger or just starting out, our platform provides the tools and support you need to build your online presence and connect with a global audience. Join our community of passionate writers and bloggers and start sharing your unique voice today.
 ## Team members
 1. Name [Embed personal github URL]
 2. Name [Embed perosnal github URL]
