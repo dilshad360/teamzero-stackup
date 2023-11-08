@@ -1,0 +1,65 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+
+.site-title{
+
+    font-size: 3rem;
+    font-family: Heathergreen;
+    font-style: italic;
+    text-align: center;
+    text-align: left;
+}
+
+.NavBar ul {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    gap: 50rem;
+
+    
+    
+}
+
+.NavBar li {
+    list-style: none;
+}
+
+.NavBar a {
+    color: inherit;
+    text-decoration: none;
+    
+}
+
+
+.list {
+    text-align: center;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.navlinks{
+    display: flex;
+    justify-content: space-between; 
+    
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    
+}
